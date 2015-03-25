@@ -32,7 +32,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ## Transformation details
 
-The raw daa sets are processed with run_analisys.R script to create a tidy data set.
+The raw data sets are processed with run_analisys.R script to create a tidy data set.
 
 There are 5 parts:
 
